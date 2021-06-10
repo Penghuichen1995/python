@@ -1,5 +1,6 @@
 import pytest
 import yaml
+import allure_pytest
 def inc(x):
     return int(x) + 1
 class TestDemo1():

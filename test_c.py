@@ -83,3 +83,5 @@ for i in range(a):
             move_zeros[j],move_zeros[j+1] = move_zeros[j+1],move_zeros[j]
         j = j+1
 print(move_zeros)
+
+#实现一个trim()函数，去除字符串首尾的空格（不能使用strip()方法
